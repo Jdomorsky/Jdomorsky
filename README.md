@@ -1,4 +1,4 @@
-<h2 align="left">Hello World👋! My name is Joseph, a passionate and driven actuarial data scientist based in Fenton, Michigan</h2>
+<h2 align="left">Hello World👋! My name is Joseph, a passionate and driven actuarial data scientist based in Michigan</h2>
 
 ###
 
