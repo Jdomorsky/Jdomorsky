@@ -8,6 +8,9 @@
 </div>
 
 ###
+<div align="center">
+  
+  ## 💻 Tech Stack ⚡
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
@@ -34,6 +37,10 @@
 </div>
 
 ###
+
+<div align="center">
+ 
+  ## 🌐 Connect with Me 🍬
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
