@@ -2,6 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Joseph,;An+Actuarial+Data+Scientist!;Nice+To+Meet+You!" />
 </h1>
 
+###
+<h2 align="left">Emerging analytics professional with a solid foundation in data analytics, predictive modeling, and statistical analysis. Former U.S. Army team leader with proven leadership and problem-solving abilities in dynamic environments. Recently earned a triple major in Actuarial Science, Economics, and Psychology from the University of Michigan. Proficient in Python, R, and SQL, and eager to leverage these skills for impactful business and financial decision-making. Highly motivated to apply my analytical skills and interdisciplinary knowledge to drive insights and innovation in Business Analytics, Financial Analytics, or Data Analytics roles.</h2>
+
 
 ###
 <div align="center">
