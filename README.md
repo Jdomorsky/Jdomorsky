@@ -40,6 +40,15 @@
 
 ###
 
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=JDomorsky&theme=github_dark&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![JDomorsky's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JDomorsky&theme=github_dark&hide_border=true)</a>
+</details>
+
+###
+
 <div align="center">
  
   ## 🌐 Connect with Me 🍬
@@ -58,12 +67,5 @@
   <a href="https://githubassociation.slack.com/team/U08EN0YHN59" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jdomorsky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jdomorsky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
